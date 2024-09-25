@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactworld/static/css/main.ded75f8d.css",
+    "main.js": "/reactworld/static/js/main.2bdd7dcc.js",
+    "static/js/453.5c22f670.chunk.js": "/reactworld/static/js/453.5c22f670.chunk.js",
+    "static/media/SEGA.woff": "/reactworld/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/reactworld/index.html",
+    "main.ded75f8d.css.map": "/reactworld/static/css/main.ded75f8d.css.map",
+    "main.2bdd7dcc.js.map": "/reactworld/static/js/main.2bdd7dcc.js.map",
+    "453.5c22f670.chunk.js.map": "/reactworld/static/js/453.5c22f670.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded75f8d.css",
+    "static/js/main.2bdd7dcc.js"
+  ]
+}
