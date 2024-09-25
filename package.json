@@ -1,7 +1,7 @@
 {
   "name": "reactworld",
   "version": "0.1.0",
-  "homepage": "https://gtkarthikeyan26.github.io/reactworld/public/index.html",
+  "homepage": "https://gtkarthikeyan26.github.io/reactworld",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
