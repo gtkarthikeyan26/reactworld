@@ -1,9 +1,9 @@
 import React, {Component}from "react";
-import Cardlist from "./Cardlist";
+import Cardlist from "../components/Cardlist";
 // import {robots}  from "./robots";
-import SearchBox from "./searchbox"; // Capitalized the import
-import './App.css'
-import Scroll from "./Scroll"
+import SearchBox from "../components/searchbox"; // Capitalized the import
+import '../containers/App.css'
+import Scroll from "../components/Scroll"
 
 
 class App extends Component {
